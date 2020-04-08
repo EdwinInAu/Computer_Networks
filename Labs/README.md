@@ -4,5 +4,9 @@
 > ### 3: [Lab 3 Specification](./Lab3.pdf) and [Lab 3 Report](./Lab3_Report.pdf)
 > ### 4: [Lab 4 Specification](./Lab4.pdf) and [Lab 4 Report](./Lab4_Report.pdf)
 > ### 5: [Lab 5 Specification](./Lab5.pdf) and [Lab 5 Report](./Lab5_Report.pdf)
+> ### 6: [Simple Ping Client](./PingClient.py)
+> ### 7: [Simple Web Server](./WebServer.py)
+
+
 
 
